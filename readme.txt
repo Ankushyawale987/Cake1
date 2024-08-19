@@ -69,6 +69,6 @@ JQuery Plugins
 Swiper Slider - https://swiperjs.com/
 Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 
-Thanks for downloading from TemplatesJungle.com !
+
 
 
